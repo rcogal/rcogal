@@ -4,7 +4,7 @@
 
 I'm a **full-stack web developer** with over **12 years** of professional experience in building scalable and user-friendly web applications.
 
-I started my career as a **PHP developer**, gaining hands-on experience with server-side development and CMS platforms. For the past **9+ years**, I've focused primarily on the **JavaScript ecosystem**, working extensively with modern frameworks and tools to deliver high-performance web solutions.
+I started my career as a _PHP developer_, gaining hands-on experience with server-side development and creating custom content management systems tailored to business needs. For the past 9+ years, I've focused primarily on the **JavaScript** ecosystem, working extensively with modern frameworks and tools to deliver high-performance web solutions.
 
 👉 **Visit my portfolio**: [romellauron.com](https://romellauron.com)
 
