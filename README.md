@@ -1,6 +1,6 @@
 ![Romel Lauron - Portfolio](https://romellauron.com/assets/images/og-image.png "Romel Lauron - Portfolio")
 
-# 👋 Hi, I'm Romel Lauron
+# 👋 Hi, I'm Romel
 
 I'm a **full-stack web developer** with over **12 years** of professional experience in building scalable and user-friendly web applications.
 
